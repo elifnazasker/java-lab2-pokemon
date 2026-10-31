@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1100" viewBox="0 0 1400 1100">
+<defs><marker id="inherit" viewBox="0 0 14 14" refX="12" refY="7" markerWidth="14" markerHeight="14" orient="auto"><path d="M1,1 L12,7 L1,13 Z" fill="white" stroke="#34465e"/></marker></defs>
+<rect width="1400" height="1100" fill="#f5f7fb"/>
+<style>text{font-family:Arial,sans-serif;fill:#20324b} .title{font-size:27px;font-weight:bold} .h{font-size:19px;font-weight:bold} .t{font-size:16px} .note{font-size:15px;fill:#516079} .box{fill:white;stroke:#7489a5;stroke-width:1.5} .base{fill:#e2ebfa;stroke:#5979a8;stroke-width:1.5} .edge{fill:none;stroke:#34465e;stroke-width:1.5;marker-end:url(#inherit)}</style>
+<text x="50" y="50" class="title">Java Lab 2 · Variant 83447690</text>
+<text x="50" y="79" class="note">Inheritance diagram · arrows point to the superclass · * = final project class</text>
+<rect x="590" y="105" width="220" height="55" rx="8" class="base"/><text x="655" y="140" class="h">Pokemon</text>
+<path d="M155 215 V185 H700 V160 M425 215 V185 H700 M700 215 V160 M975 215 V185 H700 M1240 215 V185 H700" class="edge"/>
+<rect x="35" y="215" width="240" height="130" rx="8" class="box"/><text x="55" y="246" class="h">Claydol *</text><text x="55" y="275" class="t">Overheat · Rest</text><text x="55" y="300" class="t">KarateChop · ConfuseRay</text>
+<rect x="305" y="215" width="240" height="130" rx="8" class="box"/><text x="325" y="246" class="h">Steelix *</text><text x="325" y="275" class="t">Punishment · DreamEater</text><text x="325" y="300" class="t">Flamethrower</text>
+<rect x="580" y="215" width="240" height="130" rx="8" class="box"/><text x="600" y="246" class="h">Raikou *</text><text x="600" y="275" class="t">Punishment · DreamEater</text><text x="600" y="300" class="t">Flamethrower · SmackDown</text>
+<rect x="855" y="215" width="240" height="130" rx="8" class="box"/><text x="875" y="246" class="h">Wooper</text><text x="875" y="275" class="t">FakeOut · Swagger</text>
+<rect x="1120" y="215" width="240" height="130" rx="8" class="box"/><text x="1140" y="246" class="h">Flareon *</text><text x="1140" y="275" class="t">FakeOut · Swagger</text><text x="1140" y="300" class="t">Withdraw</text>
+<path d="M975 395 V345" class="edge"/>
+<rect x="855" y="395" width="240" height="105" rx="8" class="box"/><text x="875" y="426" class="h">Quagsire *</text><text x="875" y="454" class="t">inherits FakeOut, Swagger</text><text x="875" y="480" class="t">+ Withdraw · ViceGrip</text>
+<text x="50" y="405" class="h">Main * → Battle → two teams of three</text>
+<text x="50" y="437" class="note">Pokemon owns its assigned Move objects.</text>
+<text x="50" y="464" class="note">Similar attacks do not imply an evolution relationship.</text>
+<rect x="590" y="540" width="220" height="55" rx="8" class="base"/><text x="675" y="575" class="h">Move</text>
+<path d="M400 650 V620 H700 V595 M1050 650 V620 H700" class="edge"/>
+<rect x="290" y="650" width="220" height="55" rx="8" class="base"/><text x="335" y="685" class="h">DamageMove</text>
+<rect x="940" y="650" width="220" height="55" rx="8" class="base"/><text x="995" y="685" class="h">StatusMove</text>
+<path d="M200 760 V730 H400 V705 M620 760 V730 H400" class="edge"/>
+<rect x="90" y="760" width="220" height="55" rx="8" class="base"/><text x="130" y="795" class="h">PhysicalMove</text>
+<rect x="510" y="760" width="220" height="55" rx="8" class="base"/><text x="555" y="795" class="h">SpecialMove</text>
+<path d="M200 855 V815 M620 855 V815 M1050 855 V705" class="edge"/>
+<rect x="50" y="855" width="300" height="145" rx="8" class="box"/><text x="72" y="888" class="t">KarateChop * · Punishment *</text><text x="72" y="920" class="t">SmackDown * · FakeOut *</text><text x="72" y="952" class="t">ViceGrip *</text>
+<rect x="470" y="855" width="300" height="145" rx="8" class="box"/><text x="492" y="888" class="t">Overheat *</text><text x="492" y="920" class="t">DreamEater *</text><text x="492" y="952" class="t">Flamethrower *</text>
+<rect x="900" y="855" width="300" height="145" rx="8" class="box"/><text x="922" y="888" class="t">Rest * · ConfuseRay *</text><text x="922" y="920" class="t">Swagger * · Withdraw *</text>
+<text x="50" y="1042" class="note">LibraryAccess *: Punishment stages, FakeOut flinch. MoveState *: first action and grounding marker.</text>
+<text x="50" y="1074" class="note">Blue boxes: supplied library. White boxes: project. Engine limitations are documented in MOVES.md.</text>
+</svg>

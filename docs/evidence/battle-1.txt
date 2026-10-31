@@ -1,0 +1,139 @@
+Claydol Claydol from the team Striped enters the battle!
+Steelix Steelix from the team Greren enters the battle!
+Claydol Claydol uses Karate Chop. 
+Steelix Steelix loses 11 hit points.
+
+Steelix Steelix misses
+
+Claydol Claydol uses Karate Chop. 
+Steelix Steelix loses 14 hit points.
+
+Steelix Steelix uses Flamethrower. 
+Claydol Claydol loses 13 hit points.
+
+Claydol Claydol uses Overheat. 
+Steelix Steelix loses 45 hit points.
+Claydol Claydol decreases special attack.
+
+Steelix Steelix uses Flamethrower. 
+Claydol Claydol loses 12 hit points.
+
+Claydol Claydol uses Karate Chop. 
+Steelix Steelix loses 15 hit points.
+
+Steelix Steelix uses Punishment. 
+Claydol Claydol loses 36 hit points.
+
+Claydol Claydol misses
+
+Steelix Steelix uses Punishment. 
+Claydol Claydol loses 37 hit points.
+
+Claydol Claydol uses Karate Chop. 
+Steelix Steelix loses 15 hit points.
+
+Steelix Steelix uses Punishment. 
+Claydol Claydol loses 20 hit points.
+
+Claydol Claydol uses Confuse Ray. 
+
+Steelix Steelix uses Punishment. 
+Claydol Claydol loses 24 hit points.
+Claydol Claydol faints.
+Raikou Raikou from the team Striped enters the battle!
+Raikou Raikou uses Punishment. 
+Steelix Steelix loses 7 hit points.
+
+Steelix Steelix uses Flamethrower. 
+Critical hit!
+Raikou Raikou loses 27 hit points.
+
+Raikou Raikou uses Flamethrower. 
+Critical hit!
+Steelix Steelix loses 167 hit points.
+Steelix Steelix faints.
+Flareon Flareon from the team Greren enters the battle!
+Raikou Raikou uses Flamethrower. 
+Flareon Flareon loses 8 hit points.
+
+Flareon Flareon uses Withdraw. 
+Flareon Flareon increases defense.
+
+Raikou Raikou uses Smack Down. 
+Flareon Flareon loses 28 hit points.
+
+Flareon Flareon uses Swagger. 
+Raikou Raikou increases attack.
+
+Raikou Raikou uses Smack Down. 
+Flareon Flareon loses 47 hit points.
+
+Flareon Flareon uses Swagger. 
+Raikou Raikou increases attack.
+
+Flareon Flareon misses
+
+Raikou Raikou hits himself in confusion. 
+Raikou Raikou loses 27 hit points.
+
+Raikou Raikou hits himself in confusion. 
+Raikou Raikou loses 33 hit points.
+
+Flareon Flareon uses Withdraw. 
+Flareon Flareon increases defense.
+
+Raikou Raikou uses Punishment. 
+Critical hit!
+Flareon Flareon loses 104 hit points.
+Flareon Flareon faints.
+Quagsire Quagsire from the team Greren enters the battle!
+Raikou Raikou hits himself in confusion. 
+Raikou Raikou loses 34 hit points.
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Raikou Raikou uses Punishment. 
+Quagsire Quagsire loses 44 hit points.
+
+Quagsire Quagsire uses Swagger. 
+Raikou Raikou increases attack.
+
+Quagsire Quagsire misses
+
+Raikou Raikou hits himself in confusion. 
+Raikou Raikou loses 24 hit points.
+
+Raikou Raikou hits himself in confusion. 
+Raikou Raikou loses 26 hit points.
+Raikou Raikou faints.
+Wooper Wooper from the team Striped enters the battle!
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Wooper Wooper uses Swagger. 
+Quagsire Quagsire increases attack.
+
+Quagsire Quagsire uses Vice Grip. 
+Wooper Wooper loses 53 hit points.
+
+Wooper Wooper uses Swagger. 
+Quagsire Quagsire increases attack.
+
+Wooper Wooper misses
+
+Quagsire Quagsire uses Vice Grip. 
+Wooper Wooper loses 55 hit points.
+
+Wooper Wooper misses
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 35 hit points.
+
+Wooper Wooper misses
+
+Quagsire Quagsire uses Vice Grip. 
+Wooper Wooper loses 59 hit points.
+Wooper Wooper faints.
+Team Striped loses its last Pokemon.
+The team Greren wins the battle!

@@ -1,0 +1,39 @@
+Claydol test uses Overheat. 
+Claydol test loses 23 hit points.
+Claydol test decreases special attack.
+Claydol test loses 30 hit points.
+Claydol test is poisoned
+Claydol test uses Rest. 
+Claydol test restores 30 hit points.
+Claydol test is sleeping
+Claydol test misses
+Claydol test uses Confuse Ray. 
+Claydol test increases attack.
+Claydol test decreases defense.
+Claydol test increases speed.
+Claydol test increases accuracy.
+Claydol test loses 60 hit points.
+Claydol test misses
+Claydol test is sleeping
+Claydol test uses Dream Eater. 
+Claydol test loses 13 hit points.
+Claydol test restores 7 hit points.
+Claydol test loses 50 hit points.
+Claydol test loses 126 hit points.
+Claydol test is sleeping
+Claydol test uses Dream Eater. 
+Claydol test loses 2 hit points.
+Claydol test restores 1 hit points.
+Quagsire fake uses Fake Out. 
+Claydol test loses 11 hit points.
+Quagsire fake misses
+Quagsire other uses Withdraw. 
+Quagsire other increases defense.
+Quagsire other misses
+Claydol test increases attack.
+Claydol test uses Smack Down. 
+Claydol test loses 5 hit points.
+Claydol test uses Vice Grip. 
+Critical hit!
+Claydol test loses 26 hit points.
+PASS: 90 integration checks for variant 83447690.

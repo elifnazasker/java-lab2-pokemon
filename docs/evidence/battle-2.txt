@@ -1,0 +1,637 @@
+Claydol Claydol from the team Striped enters the battle!
+Steelix Steelix from the team Yellow enters the battle!
+Claydol Claydol uses Karate Chop. 
+Steelix Steelix loses 18 hit points.
+
+Steelix Steelix misses
+
+Claydol Claydol uses Karate Chop. 
+Steelix Steelix loses 13 hit points.
+
+Steelix Steelix misses
+
+Claydol Claydol uses Confuse Ray. 
+
+Steelix Steelix misses
+
+Claydol Claydol uses Karate Chop. 
+Steelix Steelix loses 16 hit points.
+
+Steelix Steelix uses Flamethrower. 
+Claydol Claydol loses 11 hit points.
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 11 hit points.
+Claydol Claydol is sleeping
+
+Steelix Steelix hits himself in confusion. 
+Steelix Steelix loses 13 hit points.
+
+Steelix Steelix uses Punishment. 
+Critical hit!
+Claydol Claydol loses 49 hit points.
+
+
+Steelix Steelix hits himself in confusion. 
+Steelix Steelix loses 10 hit points.
+
+
+Claydol Claydol uses Karate Chop. 
+Critical hit!
+Steelix Steelix loses 26 hit points.
+
+Steelix Steelix uses Flamethrower. 
+Claydol Claydol loses 14 hit points.
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 63 hit points.
+Claydol Claydol is sleeping
+
+Steelix Steelix uses Punishment. 
+Claydol Claydol loses 19 hit points.
+
+Steelix Steelix uses Flamethrower. 
+Claydol Claydol loses 13 hit points.
+
+
+Steelix Steelix hits himself in confusion. 
+Steelix Steelix loses 11 hit points.
+
+
+Claydol Claydol uses Confuse Ray. 
+
+Steelix Steelix misses
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 32 hit points.
+Claydol Claydol is sleeping
+
+Steelix Steelix hits himself in confusion. 
+Steelix Steelix loses 13 hit points.
+
+Steelix Steelix uses Flamethrower. 
+Claydol Claydol loses 16 hit points.
+
+
+Steelix Steelix uses Punishment. 
+Claydol Claydol loses 20 hit points.
+
+
+Claydol Claydol uses Karate Chop. 
+Critical hit!
+Steelix Steelix loses 38 hit points.
+Steelix Steelix faints.
+Flareon Flareon from the team Yellow enters the battle!
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 36 hit points.
+Claydol Claydol is sleeping
+
+Flareon Flareon uses Swagger. 
+Claydol Claydol increases attack.
+
+Flareon Flareon misses
+
+
+Flareon Flareon uses Swagger. 
+Claydol Claydol increases attack.
+
+
+Flareon Flareon misses
+
+Claydol Claydol misses
+
+Flareon Flareon misses
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 26 hit points.
+
+Claydol Claydol uses Overheat. 
+Critical hit!
+Flareon Flareon loses 27 hit points.
+Claydol Claydol decreases special attack.
+
+Flareon Flareon uses Withdraw. 
+Flareon Flareon increases defense.
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 26 hit points.
+Claydol Claydol is sleeping
+
+Flareon Flareon uses Swagger. 
+Claydol Claydol increases attack.
+
+Flareon Flareon uses Swagger. 
+Claydol Claydol increases attack.
+
+
+Flareon Flareon uses Swagger. 
+Claydol Claydol increases attack.
+
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 28 hit points.
+
+Flareon Flareon uses Withdraw. 
+Flareon Flareon increases defense.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 23 hit points.
+
+Flareon Flareon uses Swagger. 
+Claydol Claydol increases attack.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 29 hit points.
+
+Flareon Flareon uses Withdraw. 
+Flareon Flareon increases defense.
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 80 hit points.
+Claydol Claydol is sleeping
+
+Flareon Flareon uses Swagger. 
+Claydol Claydol increases attack.
+
+Flareon Flareon misses
+
+
+Flareon Flareon misses
+
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 21 hit points.
+
+Flareon Flareon uses Withdraw. 
+Flareon Flareon increases defense.
+
+Flareon Flareon misses
+
+Claydol Claydol uses Karate Chop. 
+Flareon Flareon loses 17 hit points.
+
+Flareon Flareon misses
+
+Claydol Claydol uses Overheat. 
+Flareon Flareon restores 1 hit points.
+Claydol Claydol decreases special attack.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 20 hit points.
+
+Flareon Flareon uses Withdraw. 
+Flareon Flareon increases defense.
+
+Claydol Claydol uses Confuse Ray. 
+
+Flareon Flareon uses Swagger. 
+Claydol Claydol increases attack.
+
+Flareon Flareon misses
+
+Claydol Claydol uses Overheat. 
+Flareon Flareon restores 4 hit points.
+Claydol Claydol decreases special attack.
+
+Flareon Flareon misses
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 12 hit points.
+
+Claydol Claydol uses Overheat. 
+Critical hit!
+Flareon Flareon restores 3 hit points.
+Claydol Claydol decreases special attack.
+
+Flareon Flareon uses Withdraw. 
+Flareon Flareon increases defense.
+
+Claydol Claydol uses Confuse Ray. 
+
+Flareon Flareon hits himself in confusion. 
+Flareon Flareon loses 9 hit points.
+
+Flareon Flareon misses
+
+Claydol Claydol uses Confuse Ray. 
+
+Claydol Claydol uses Overheat. 
+Critical hit!
+Flareon Flareon restores 2 hit points.
+Claydol Claydol decreases special attack.
+
+Flareon Flareon misses
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 53 hit points.
+Claydol Claydol is sleeping
+
+Flareon Flareon uses Withdraw. 
+Flareon Flareon increases defense.
+
+Flareon Flareon misses
+
+
+Flareon Flareon misses
+
+
+Claydol Claydol uses Karate Chop. 
+Flareon Flareon loses 19 hit points.
+
+Flareon Flareon uses Swagger. 
+Claydol Claydol increases attack.
+
+Claydol Claydol uses Overheat. 
+Flareon Flareon restores 1 hit points.
+Claydol Claydol decreases special attack.
+
+Flareon Flareon hits himself in confusion. 
+Flareon Flareon loses 17 hit points.
+
+Claydol Claydol uses Overheat. 
+Flareon Flareon restores 1 hit points.
+Claydol Claydol decreases special attack.
+
+Flareon Flareon hits himself in confusion. 
+Flareon Flareon loses 17 hit points.
+
+Flareon Flareon misses
+
+Claydol Claydol misses
+
+Claydol Claydol uses Karate Chop. 
+Flareon Flareon loses 14 hit points.
+
+Flareon Flareon hits himself in confusion. 
+Flareon Flareon loses 17 hit points.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 11 hit points.
+
+Flareon Flareon hits himself in confusion. 
+Flareon Flareon loses 13 hit points.
+Flareon Flareon faints.
+Quagsire Quagsire from the team Yellow enters the battle!
+Claydol Claydol uses Karate Chop. 
+Quagsire Quagsire loses 27 hit points.
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 20 hit points.
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Quagsire Quagsire misses
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 22 hit points.
+
+Claydol Claydol uses Confuse Ray. 
+
+Quagsire Quagsire uses Swagger. 
+Claydol Claydol increases attack.
+
+Quagsire Quagsire misses
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 20 hit points.
+
+Claydol Claydol uses Karate Chop. 
+Quagsire Quagsire loses 17 hit points.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 15 hit points.
+
+Claydol Claydol uses Overheat. 
+Quagsire Quagsire restores 3 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 8 hit points.
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 88 hit points.
+Claydol Claydol is sleeping
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 7 hit points.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 9 hit points.
+
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 9 hit points.
+Claydol Claydol is sleeping
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 17 hit points.
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+
+Quagsire Quagsire misses
+
+
+Claydol Claydol uses Overheat. 
+Quagsire Quagsire restores 2 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 12 hit points.
+
+Quagsire Quagsire misses
+
+Claydol Claydol uses Overheat. 
+Critical hit!
+Quagsire Quagsire restores 6 hit points.
+Claydol Claydol decreases special attack.
+
+Claydol Claydol uses Karate Chop. 
+Quagsire Quagsire loses 14 hit points.
+
+Quagsire Quagsire uses Swagger. 
+Claydol Claydol increases attack.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 17 hit points.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 9 hit points.
+
+Claydol Claydol uses Overheat. 
+Quagsire Quagsire restores 2 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Claydol Claydol uses Overheat. 
+Quagsire Quagsire restores 2 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 13 hit points.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 15 hit points.
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Claydol Claydol uses Confuse Ray. 
+
+Quagsire Quagsire uses Swagger. 
+Claydol Claydol increases attack.
+
+Claydol Claydol uses Overheat. 
+Quagsire Quagsire restores 3 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 16 hit points.
+
+Quagsire Quagsire misses
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 12 hit points.
+
+Claydol Claydol uses Overheat. 
+Critical hit!
+Quagsire Quagsire restores 7 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 10 hit points.
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 111 hit points.
+Claydol Claydol is sleeping
+
+Quagsire Quagsire uses Swagger. 
+Claydol Claydol increases attack.
+
+Quagsire Quagsire uses Swagger. 
+Claydol Claydol increases attack.
+
+
+Quagsire Quagsire uses Swagger. 
+Claydol Claydol increases attack.
+
+
+Quagsire Quagsire misses
+
+Claydol Claydol uses Confuse Ray. 
+
+Claydol Claydol uses Overheat. 
+Critical hit!
+Quagsire Quagsire restores 6 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 11 hit points.
+
+Claydol Claydol uses Confuse Ray. 
+
+Quagsire Quagsire uses Swagger. 
+Claydol Claydol increases attack.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 10 hit points.
+
+Quagsire Quagsire uses Swagger. 
+Claydol Claydol increases attack.
+
+Claydol Claydol uses Overheat. 
+Quagsire Quagsire restores 3 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 8 hit points.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 9 hit points.
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 7 hit points.
+
+Quagsire Quagsire misses
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 30 hit points.
+Claydol Claydol is sleeping
+
+Quagsire Quagsire misses
+
+
+Quagsire Quagsire misses
+
+
+Claydol Claydol misses
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 11 hit points.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 11 hit points.
+
+Claydol Claydol uses Karate Chop. 
+Critical hit!
+Quagsire Quagsire loses 17 hit points.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 14 hit points.
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 36 hit points.
+Claydol Claydol is sleeping
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 16 hit points.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 11 hit points.
+
+
+Quagsire Quagsire misses
+
+
+Claydol Claydol uses Confuse Ray. 
+
+Quagsire Quagsire misses
+
+Claydol Claydol uses Karate Chop. 
+Quagsire Quagsire loses 8 hit points.
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 27 hit points.
+Claydol Claydol is sleeping
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 11 hit points.
+
+
+Quagsire Quagsire misses
+
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 11 hit points.
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 17 hit points.
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 39 hit points.
+Claydol Claydol is sleeping
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 16 hit points.
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 11 hit points.
+
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+
+Quagsire Quagsire misses
+
+Claydol Claydol uses Confuse Ray. 
+
+Claydol Claydol uses Confuse Ray. 
+
+Quagsire Quagsire uses Vice Grip. 
+Claydol Claydol loses 12 hit points.
+
+Claydol Claydol misses
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Quagsire Quagsire misses
+
+Claydol Claydol uses Confuse Ray. 
+
+Claydol Claydol uses Overheat. 
+Quagsire Quagsire restores 3 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire uses Swagger. 
+Claydol Claydol increases attack.
+
+Quagsire Quagsire misses
+
+Claydol Claydol hits himself in confusion. 
+Claydol Claydol loses 11 hit points.
+
+Quagsire Quagsire misses
+
+Claydol Claydol uses Rest. 
+Claydol Claydol restores 39 hit points.
+Claydol Claydol is sleeping
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 7 hit points.
+
+
+Quagsire Quagsire misses
+
+
+Quagsire Quagsire misses
+
+Claydol Claydol uses Confuse Ray. 
+
+Claydol Claydol uses Overheat. 
+Quagsire Quagsire restores 2 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire uses Withdraw. 
+Quagsire Quagsire increases defense.
+
+Claydol Claydol uses Karate Chop. 
+Quagsire Quagsire loses 9 hit points.
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 9 hit points.
+
+Claydol Claydol uses Overheat. 
+Quagsire Quagsire restores 3 hit points.
+Claydol Claydol decreases special attack.
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 11 hit points.
+
+Claydol Claydol uses Karate Chop. 
+Quagsire Quagsire loses 12 hit points.
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 11 hit points.
+
+Claydol Claydol misses
+
+Quagsire Quagsire hits himself in confusion. 
+Quagsire Quagsire loses 9 hit points.
+
+Claydol Claydol uses Karate Chop. 
+Quagsire Quagsire loses 12 hit points.
+Quagsire Quagsire faints.
+Team Yellow loses its last Pokemon.
+The team Striped wins the battle!
